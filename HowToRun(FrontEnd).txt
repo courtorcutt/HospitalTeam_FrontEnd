@@ -1,0 +1,10 @@
+To download streamlit, run this command in your terminal:
+pip install streamlit
+
+Then go into the HospitalTeam_FrontEnd-master folder.
+
+To run the front end of the model, put this command into your terminal:
+streamlit run occupancyPredictorFront.py
+
+
+This will open the file locally. 

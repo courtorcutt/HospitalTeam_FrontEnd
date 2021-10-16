@@ -1,0 +1,5 @@
+To run the model separately in your terminal:
+- make sure the data is named data.csv
+- make sure the json file is named model.json and is in the same directory as your data.csv file
+
+In your terminal you should see the Predictions: [….] and the MAPE: and RSME: 
